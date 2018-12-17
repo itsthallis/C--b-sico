@@ -1,0 +1,11 @@
+/home/thallis/Área de Trabalho/C#/bin/Debug/netcoreapp2.2/C#.deps.json
+/home/thallis/Área de Trabalho/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.json
+/home/thallis/Área de Trabalho/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.dev.json
+/home/thallis/Área de Trabalho/C#/bin/Debug/netcoreapp2.2/C#.dll
+/home/thallis/Área de Trabalho/C#/bin/Debug/netcoreapp2.2/C#.pdb
+/home/thallis/Área de Trabalho/C#/obj/Debug/netcoreapp2.2/C#.csprojAssemblyReference.cache
+/home/thallis/Área de Trabalho/C#/obj/Debug/netcoreapp2.2/C#.csproj.CoreCompileInputs.cache
+/home/thallis/Área de Trabalho/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfoInputs.cache
+/home/thallis/Área de Trabalho/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfo.cs
+/home/thallis/Área de Trabalho/C#/obj/Debug/netcoreapp2.2/C#.dll
+/home/thallis/Área de Trabalho/C#/obj/Debug/netcoreapp2.2/C#.pdb
